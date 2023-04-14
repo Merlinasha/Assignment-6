@@ -1,0 +1,39 @@
+{
+    "employee_details" : [
+    {
+            "name":"ABC",
+            "DOB":12-12-1998,
+            "Height":167,
+            "City":"Chennai",
+            "State":"Tamilnadu"
+    },
+    {
+            "name":"DEF",
+            "DOB": 3-12-1994,
+            "Height":163,
+            "City":"Banglore",
+            "State":"Karnataka"
+    },
+    {
+            "name":"GHI",
+            "DOB":3-11-1999,
+            "Height":170,
+            "City":"cochin",
+            "State":"Kerala",
+    },
+    {
+            "name":"JKL",
+            "DOB":13-05-1997,
+            "Height":169,
+            "City":"Hyderabad",
+            "State":"Telunghana"
+    },
+    {
+            "name":"MNO",
+            "DOB":1-12-1998,
+            "Height":175,
+            "City":"Mumbai",
+            "State":"Maharashtra"
+    }
+    ]
+}
